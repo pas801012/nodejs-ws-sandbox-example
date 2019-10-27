@@ -8,15 +8,11 @@
     "start": "node server.js "
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wahengchang/nodejs-websocket-example.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wahengchang/nodejs-websocket-example/issues"
-  },
-  "homepage": "https://github.com/wahengchang/nodejs-websocket-example#readme",
+  "bugs": {},
   "dependencies": {
     "express": "^4.16.2",
     "ws": "^3.2.0"

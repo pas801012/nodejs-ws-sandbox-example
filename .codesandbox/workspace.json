@@ -12,6 +12,14 @@
             "url": "https://nheyw-40510.sse.codesandbox.io"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 40510,
+            "url": "https://eeecp-40510.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },
